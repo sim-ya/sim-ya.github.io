@@ -1,7 +1,14 @@
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 ### Site Settings ###
 title               : Simya Maths Note
 description         : >-
-                      Here I note what I have learned about Maths and Physics.
+                      Welcome to my blog! Here I note what I learned about Maths and Physics.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : sim-ya/sim-ya.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
